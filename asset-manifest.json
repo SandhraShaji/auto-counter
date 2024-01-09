@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auto-counter/static/css/main.a240c550.css",
+    "main.js": "/auto-counter/static/js/main.96e68b88.js",
+    "index.html": "/auto-counter/index.html",
+    "main.a240c550.css.map": "/auto-counter/static/css/main.a240c550.css.map",
+    "main.96e68b88.js.map": "/auto-counter/static/js/main.96e68b88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.96e68b88.js"
+  ]
+}
